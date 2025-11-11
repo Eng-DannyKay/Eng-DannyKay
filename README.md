@@ -2,7 +2,7 @@
 👋 Hi, I’m Daniel Forson  
 👀 I’m interested in **JavaScript, TypeScript, Angular, React, Next.js, NestJS,Pyhon**  
 🌱 I’m currently learning  **Pyton**  for **AI** development
-💞️ I’m looking to collaborate on exciting **web development projects**  
+💞️ I’m looking to collaborate on exciting **Projects**  
 📫 Reach me at *danielforson57@gmail.com**
 
 ---
