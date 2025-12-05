@@ -13,7 +13,6 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com//@dannykay833)  
 ---
 
----
 ## 💻 Tech Stack:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
